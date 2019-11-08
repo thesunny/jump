@@ -23,12 +23,12 @@
     "keybindings": [
       {
         "command": "extension.jumprelated",
-        "mac": "alt+f",
+        "mac": "alt+p",
         "when": "editorTextFocus"
       },
       {
         "command": "extension.jumprelatedandcreate",
-        "mac": "alt+shift+f",
+        "mac": "alt+shift+p",
         "when": "editorTextFocus"
       }
     ]
